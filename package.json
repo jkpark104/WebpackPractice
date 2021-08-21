@@ -1,0 +1,25 @@
+{
+  "name": "WebpackPractice",
+  "version": "1.0.0",
+  "description": "wepack-practice repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkpark104/WebpackPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkpark104/WebpackPractice/issues"
+  },
+  "homepage": "https://github.com/jkpark104/WebpackPractice#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.0.0-rc.1"
+  }
+}
