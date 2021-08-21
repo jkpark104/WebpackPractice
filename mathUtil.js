@@ -7,5 +7,7 @@ const getCircleArea = r => r * r * PI
 // }
 // 일괄 내보내기
 
-exports.Pi = PI
-exports.getCircleArea = getCircleArea
+export {
+  PI,
+  getCircleArea
+}
